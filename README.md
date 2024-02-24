@@ -2,6 +2,8 @@
 npm i --force
 npm run dev
 
+some dependnecies are depricated, so use force to install
+
 # Login
 username: user
 password: user
